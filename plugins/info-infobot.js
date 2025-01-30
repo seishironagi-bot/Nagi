@@ -55,7 +55,7 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let CrowBot = `╭─⬣「 *Info De CrowBot* 」⬣\n`
+let CrowBot = `╭─⬣「 *Info De Nagi-Bot* 」⬣\n`
 CrowBot += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
 CrowBot += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
 CrowBot += `│ 📦 *Total Plugins* : ${totalf}\n`
